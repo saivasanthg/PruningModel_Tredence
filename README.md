@@ -37,7 +37,6 @@ The preprocessing steps were undertaken to ensure compatability with the feedfor
 | Pruning Dynamics   | Sparsity Threshold        | < 0.1                                    | Gates passing <10% of signal are considered "Pruned"                                     |
 | Pruning Dynamics   | L1 Penalties (λ)          | [0.0, 0.001, 0.002, 0.005, 0.01]         | Values used for ablation study to map the sensitivity curve                              |
 
-The following results were obtained
 
 # Observations
 - Higher Lambda values lead to larger sparsity levels
