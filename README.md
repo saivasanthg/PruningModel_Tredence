@@ -17,7 +17,7 @@ using L1 regularization
 ## Results
 
 ### Test Accuracy vs Epochs
-![Test Accuracy](Test_Accuracy vs Epochs.png)
+![Test Accuracy](Test_AccuracyvsEpochs.png)
 
 ### Sparsity vs Epochs
 ![Sparsity](SparsityvsEpochs.png)
