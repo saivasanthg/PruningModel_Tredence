@@ -1,4 +1,3 @@
-# PruningModel_Tredence
 
 # L1 Regulrization and Sparsity
 The L1 regularization was applied internally in the training loop to optimize the accuracy and sparsity levels of the neural network, the CIFAR-10 consists of images of 10 different labels which consist of certain hidden features that are to be 
