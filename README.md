@@ -45,7 +45,7 @@ The preprocessing steps were undertaken to ensure compatability with the feedfor
 - Higher Sparsity levels lead to decrease in Accuracy despite a maintained total loss
   
 
-## Results
+# Results
 
 ### Test Accuracy vs Epochs
 ![Test Accuracy](Test_AccuracyvsEpochs.png)
