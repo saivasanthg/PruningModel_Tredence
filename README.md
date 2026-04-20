@@ -13,3 +13,5 @@ using L1 regularization
 | 0.01                   | 10.00%           | 100.00%            |
 
 
+
+![Accuracy vs Number of Epochs](Test_Accuracy vs Epochs.png)
