@@ -19,6 +19,8 @@ Libraries Used -> NumPy, MatplotLib, Tensorflow Datasets ( For Importing Cifar-1
 Pre Processing Steps -> Flattening of the image, Normalization and One Hot-Encoding 
 The preprocessing steps were undertaken to ensure compatability with the feedforward neural network layer
 
+# Hyperparameters
+
 
 | Category           | Hyperparameter            | Value                                   | Rationale / Description                                                                 |
 |--------------------|---------------------------|------------------------------------------|------------------------------------------------------------------------------------------|
