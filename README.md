@@ -14,4 +14,16 @@ using L1 regularization
 
 
 
-![Accuracy vs Number of Epochs](Test_Accuracy vs Epochs.png)
+## Results
+
+### Test Accuracy vs Epochs
+![Test Accuracy](Test_Accuracy vs Epochs.png)
+
+### Sparsity vs Epochs
+![Sparsity](SparsityvsEpochs.png)
+
+### Total Loss vs Epochs
+![Loss](TotalLossvsEpochs.png)
+
+### Distribution of Final Gate Values
+![Distribution](Distribution_of_Final_Gate_Values.png)
